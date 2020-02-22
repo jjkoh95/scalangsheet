@@ -1,0 +1,321 @@
+INFO  started: Metals version 0.8.0 in workspace '/home/jjkoh/projects/jjkoh/scalangsheet'
+INFO  time: initialize in 1.94s
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+INFO  no build target: using presentation compiler with only scala-library
+Feb 22, 2020 10:52:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Feb 22, 2020 10:52:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Feb 22, 2020 10:52:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+Feb 22, 2020 10:52:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 10:55:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 473
+Feb 22, 2020 10:55:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 486
+Feb 22, 2020 10:55:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 524
+Feb 22, 2020 10:56:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 735
+Feb 22, 2020 10:56:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 779
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 10:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+Feb 22, 2020 10:58:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1058
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:01:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1363
+Feb 22, 2020 11:01:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1377
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:04:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1650
+Feb 22, 2020 11:05:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1724
+Feb 22, 2020 11:06:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1997
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:13:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2540
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:16:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2766
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:20:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3126
+Feb 22, 2020 11:20:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3135
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:22:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3193
+Feb 22, 2020 11:22:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3257
+Feb 22, 2020 11:22:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3283
+Feb 22, 2020 11:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3401
+Feb 22, 2020 11:25:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3440
+Feb 22, 2020 11:26:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3677
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:26:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3782
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:32:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4353
+Feb 22, 2020 11:32:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4389
+Feb 22, 2020 11:35:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4531
+Feb 22, 2020 11:36:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4949
+Feb 22, 2020 11:37:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4963
+Feb 22, 2020 11:37:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4987
+Feb 22, 2020 11:37:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4998
+Feb 22, 2020 11:38:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5238
+Feb 22, 2020 11:39:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5417
+Feb 22, 2020 11:39:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5418
+Feb 22, 2020 11:41:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5751
+Feb 22, 2020 11:41:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5754
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:52:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6481
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 22, 2020 11:56:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7078
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 23, 2020 12:00:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7283
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 23, 2020 12:05:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7499
+Feb 23, 2020 12:05:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7501
+Feb 23, 2020 12:05:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7599
+Feb 23, 2020 12:06:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7681
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 23, 2020 12:08:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7777
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 23, 2020 12:09:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7930
+Feb 23, 2020 12:09:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7933
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+Feb 23, 2020 12:10:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7965
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+INFO  running '/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals3758869591034794267/sbt-launch.jar set bloopExportJarClassifiers in Global := Some(Set("sources")) bloopInstall'
+INFO  [info] Loading settings for project scalangsheet-build from metals.sbt,plugins.sbt ...
+INFO  [info] Loading project definition from /home/jjkoh/projects/jjkoh/scalangsheet/project
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [info] Loading settings for project root from build.sbt ...
+INFO  [info] Set current project to scalangsheet (in build file:/home/jjkoh/projects/jjkoh/scalangsheet/)
+INFO  [info] Defining Global / bloopExportJarClassifiers
+INFO  [info] The new value will be used by ThisBuild / bloopExportJarClassifiers
+INFO  [info] Reapplying settings...
+INFO  [info] Set current project to scalangsheet (in build file:/home/jjkoh/projects/jjkoh/scalangsheet/)
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [success] Generated .bloop/root-test.json
+INFO  [success] Generated .bloop/root.json
+INFO  [success] Total time: 21 s, completed Feb 23, 2020, 12:21:06 AM
+INFO  build tool exit: 0
+INFO  time: ran 'sbt bloopInstall' in 1m33s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher16169711713983512923/bsp.socket'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+INFO  skipping build import with status 'Dismissed'
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+error: Giving up on waiting for a connection, printing embedded bloop logs:
+> No server running at 127.0.0.1:8212, let's fire one...
+> Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1...
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 13024'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1...
+Starting bloop server at 127.0.0.1:8212...
+-> Command: List(java, -XX:MaxInlineLevel=20, -XX:+UseParallelGC, -classpath, /home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sockets/1.4.0-RC1/sockets-1.4.0-RC1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4%2B10-61e61e87/bsp4s_2.12-2.0.0-M4%2B10-61e61e87.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.2/util-interface-1.2.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4%2B32-b1accb96/compiler-interface-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4%2B32-b1accb96/compiler-bridge_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.2/util-logging_2.12-1.2.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4%2B32-b1accb96/zinc-classfile_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4%2B32-b1accb96/zinc-apiinfo_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4%2B32-b1accb96/zinc-classpath_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.2/util-relation_2.12-1.2.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4%2B32-b1accb96/zinc-core_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.5.0/sbinary_2.12-0.5.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4%2B32-b1accb96/zinc-persist_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.2/util-control_2.12-1.2.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4%2B32-b1accb96/zinc-compile-core_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4%2B32-b1accb96/zinc_2.12-1.3.0-M4%2B32-b1accb96.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-agent/1.2.8/test-agent-1.2.8.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/1.4.0-RC1/bloop-shared_2.12-1.4.0-RC1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.7/gson-2.7.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/reactivex/rxjava2/rxjava/2.1.1/rxjava-2.1.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.21.0%2B1-7f1080f1/com-microsoft-java-debug-core-0.21.0%2B1-7f1080f1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.12/2.0.0-RC3-4/coursier-util_2.12-2.0.0-RC3-4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/2.0.0-RC3-4/coursier-core_2.12-2.0.0-RC3-4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/2.0.0-RC3-4/coursier-cache_2.12-2.0.0-RC3-4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.12/2.0.0-RC3-4/coursier_2.12-2.0.0-RC3-4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0%2B6-f651bd93/directory-watcher-0.8.0%2B6-f651bd93.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/7.0/asm-7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm-tree/7.0/asm-tree-7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm-analysis/7.0/asm-analysis-7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm-util/7.0/asm-util-7.0.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.4.0-RC1/bloop-backend_2.12-1.4.0-RC1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.0.4/jsoniter-scala-core_2.12-2.0.4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.4.0-RC1/bloop-config_2.12-1.4.0-RC1.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/nuprocess-1.2.4.jar:/home/jjkoh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.4.0-RC1/bloop-frontend_2.12-1.4.0-RC1.jar, bloop.Server, 8212)
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/home/jjkoh/projects/jjkoh/scalangsheet/.bloop'...
+[0m[32m[D][0m Loading project from '/home/jjkoh/projects/jjkoh/scalangsheet/.bloop/root.json'
+[0m[32m[D][0m Loading project from '/home/jjkoh/projects/jjkoh/scalangsheet/.bloop/root-test.json'
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:13024...
+The server is listening for incoming connections at tcp://127.0.0.1:13024...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jjkoh/.cache/metals/bsp.trace.json
+ERROR Timeout waiting for 'build/initialize' response
+ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:259)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:203)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Feb 23, 2020 12:26:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8348
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala' because it doesn't belong to a build target.
+Feb 23, 2020 12:33:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9002
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
+WARN  no build target for: /home/jjkoh/projects/jjkoh/scalangsheet/app/controllers/SheetController.scala
