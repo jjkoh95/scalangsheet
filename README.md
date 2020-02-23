@@ -2,7 +2,7 @@
 Extract translation JSON files from spreadsheet
 
 ## Usage
-Pass sheetURL in the body and translation zip files will be returned
+Publish your spreadsheet as CSV and pass the sheetURL in the body and translation zip files will be returned
 ```bash
 curl --location --request POST 'https://warm-mountain-57502.herokuapp.com/sheet' \
 --header 'Content-Type: application/json' \
